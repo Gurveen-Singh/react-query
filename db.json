@@ -15,5 +15,31 @@
       "name": "Wonder Woman 11",
       "alterEgo": "Princess Diana"
     }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Iron Man"
+    },
+    {
+      "id": 2,
+      "name": "Thor"
+    },
+    {
+      "id": 3,
+      "name": "Hulk"
+    }
+  ],
+  "users": [
+    {
+      "id": "yo@g.com",
+      "channelId": "coder"
+    }
+  ],
+  "channels": [
+    {
+      "id": "coder",
+      "courses": ["react", "angular"]
+    }
   ]
 }
