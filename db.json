@@ -14,6 +14,16 @@
       "id": 3,
       "name": "Wonder Woman 11",
       "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "shazam",
+      "alterEgo": "yo",
+      "id": 4
+    },
+    {
+      "name": "tt",
+      "alterEgo": "ss",
+      "id": 5
     }
   ],
   "friends": [
@@ -39,7 +49,40 @@
   "channels": [
     {
       "id": "coder",
-      "courses": ["react", "angular"]
+      "courses": [
+        "react",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "Red"
+    },
+    {
+      "id": 2,
+      "label": "Blue"
+    },
+    {
+      "id": 3,
+      "label": "Violet"
+    },
+    {
+      "id": 4,
+      "label": "Indigo"
+    },
+    {
+      "id": 5,
+      "label": "Green"
+    },
+    {
+      "id": 6,
+      "label": "Yellow"
+    },
+    {
+      "id": 8,
+      "label": "Orange"
     }
   ]
 }
